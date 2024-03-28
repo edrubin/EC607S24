@@ -1,0 +1,35 @@
+# General extensions to ignore
+*.RData
+*.rdb
+*.rdx
+*.DS_Store
+.Rproj.user
+.Rhistory
+.Ruserdata
+.Rapp.history
+
+# Temporary holds: Notes
+# notes-lecture/01*
+# notes-lecture/02*
+notes-lecture/03*
+notes-lecture/04*
+notes-lecture/05*
+notes-lecture/06*
+notes-lecture/07*
+notes-lecture/08*
+notes-lecture/09*
+notes-lecture/10*
+notes-lecture/11*
+notes-lecture/12*
+notes-lecture/13*
+
+# Temporary holds
+# project*
+final/*
+# final/final-class*
+# final/final-home/setup.R
+# final/final-home/sim.R
+# final/final-home/key*
+# final/final-class*
+problem-sets/*
+# problem-sets/00[0-9]/key-00[0-9]*
