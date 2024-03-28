@@ -66,25 +66,25 @@ The content of the lectures mainly follows *MHE* and [Michael Anderson](https://
 
 *Another note on the notes:* I create the slides with [`xaringan`](https://github.com/yihui/xaringan/wiki) in [R](cran.r-project.org). Thanks to [Grant McDermott](grantmcdermott.com/) for encouraging me to make this switch.
 
-**[Lecture 01: Research + R + You = 💖](https://raw.githack.com/edrubin/EC607S23/master/notes-lecture/01-research-r/01-research-r.html)**
+**[Lecture 01: Research + R + You = 💖](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec01/notes.html)**
 
 1. An introduction to empirical research via applied econometrics.
 1. R: Light introduction—objects, functions, and help.
 
-**Note formats:** [.html](https://raw.githack.com/edrubin/EC607S23/master/notes-lecture/01-research-r/01-research-r.html) |
-[.pdf](https://raw.githack.com/edrubin/EC607S23/master/notes-lecture/01-research-r/01-research-r.pdf) |
-[.Rmd](https://raw.githack.com/edrubin/EC607S23/master/notes-lecture/01-research-r/01-research-r.Rmd)
+**Note formats:** [.html](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec01/notes.html) |
+[.pdf](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec01/notes.pdf) |
+[.rmd](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec01/notes.rmd)
 
  **Readings:** MHE preface + MHE chapter 1
 
-**[Lecture 02: The Experimental Ideal](https://raw.githack.com/edrubin/EC607S23/master/notes-lecture/02-the-ideal/02-the-ideal.html)**
+**[Lecture 02: The Experimental Ideal](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec02/notes.html)**
 
 1. Neyman potential outcomes framework (Rubin causal model)
 1. Selection bias and experimental variation in treatment
 
-**Note formats:** [.html](https://raw.githack.com/edrubin/EC607S23/master/notes-lecture/02-the-ideal/02-the-ideal.html) |
-[.pdf](https://raw.githack.com/edrubin/EC607S23/master/notes-lecture/02-the-ideal/02-the-ideal.pdf) |
-[.Rmd](https://raw.githack.com/edrubin/EC607S23/master/notes-lecture/02-the-ideal/02-the-ideal.Rmd)
+**Note formats:** [.html](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec02/notes.html) |
+[.pdf](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec02/notes.pdf) |
+[.rmd](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec02/notes.rmd)
 
  **Readings:** MHE chapter 2
 
