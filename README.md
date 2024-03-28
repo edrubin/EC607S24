@@ -22,8 +22,8 @@ Welcome to **Economics 607: Econometrics III** (Spring 2024) at the University o
 
 **Office hours**
 
-- **[Ed Rubin](https://edrub.in)**: Thursdays 4pm–5pm, [PLC 519](https://map.uoregon.edu/a5232bb70)
-- **[Owen Jetton](https://cas.uoregon.edu/directory/social-sciences/all/ojetton)**
+- **[Ed Rubin](https://edrub.in)**: Mondays 4pm–5pm and by appointment, [PLC 530](https://map.uoregon.edu/bf87c0570)
+- **[Owen Jetton](https://cas.uoregon.edu/directory/social-sciences/all/ojetton)** TBD, [506 PLC](https://map.uoregon.edu/56d7205bf)
 
 ## Books
 
