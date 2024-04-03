@@ -938,6 +938,29 @@ tab222 %>% column_spec(4, bold = T)
 Additional controls slightly increase precision.
 ---
 layout: false
+# The experimental idea
+## Summary
+
+The .hi[potential-outcomes framework] 
+
+- clarifies our need for .b.slate["clean" variation];
+- elucidates our .b.slate[identifying assumptions];
+- illustrates why experiments are .b.slate["the gold standard"].
+
+--
+
+However, .hi[experiments] are not a panacea.
+
+- Experiments still make .b.slate[assumptions] (more on this later).
+- We can violate these .b.slate[assumptions] (also more later).
+- Conditional random assignment requires .b.slate[conditioning].
+
+--
+
+*Bonus:* Covariates also help soak up unexplained variation.
+
+---
+layout: false
 # Table of contents
 
 .pull-left[
@@ -966,9 +989,3 @@ layout: false
 ]
 
 ]
----
-exclude: true
-
-```{r, generate pdfs, include = F, eval = F}
-pagedown::chrome_print("02-the-ideal.html", output = "02-the-ideal.pdf")
-```
