@@ -116,7 +116,6 @@
   font-weight: bold;
 }
 /* Italic */
-}
 .it {
   font-style:  italic;
 }
@@ -177,9 +176,9 @@
 }
 
 /* Turn off slide numbers */
-.remark-slide-number {
-  /* display: none; */
-}
+/* .remark-slide-number { */
+/*   display: none; */
+/* } */
 
 .dark-slide {
   background-color: #23373B;
