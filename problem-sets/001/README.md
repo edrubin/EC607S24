@@ -21,7 +21,7 @@ function(a,b) {
 }
 ```
 
-**3.** Write a second function (or amend your previous function such) that estimates heteroskedasticity-robust standard errors for the coefficients in part **2.**
+**3.** Write a second function (or amend your previous function) that estimates heteroskedasticity-robust standard errors for the coefficients in part **2.**
 
 **4.** Show that your function works using the `mtcars` dataset in `R`. Specifically: Use your function to regress `mpg` on an intercept, the number of cylinders (`cyl`), horsepower (`hp`), and weight `wt`.
 
