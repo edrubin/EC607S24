@@ -27,7 +27,12 @@ Here are a few ideas for topics to get you started. You can certainly go beyond 
 - Event studies
 - Mixed models
 - A deeper dive into maximium likelihood estimators
-- Other forms or regression
+- Alternatives to IV/2SLS (LIML, split-sample, ...)
+- Other forms of regression
+  - Quantile regression
+  - Non-parametric
+- Dynamics and spillovers
+- ML-assisted heterogeneous effects
 
 **Inference**
 
@@ -36,4 +41,12 @@ Here are a few ideas for topics to get you started. You can certainly go beyond 
 
 ## Claimed topics
 
-None yet!
+| Topic | Person |
+|-------|--------|
+| Interrupted time series | Dan Breeden |
+| Synthetic control methods | Jean Paul L. |
+| Shift-share IV | Josephine Kim |
+| Quantile reg. OR Wild cl. bootstrap | Havi K. |
+| 2 or 3 differences | Arvind Ch. |
+| Maximum likelihood | Nathan Bracken |
+| Dynamics and spillovers | Casey Cloutier |
