@@ -318,7 +318,7 @@ Building a research project/proposal.
 - You should have several drafts (only submit the last one).
 - Talk with your classmates (and me!).
 
-More information [here](project/prj-01.md)
+More information [here](project1/step1.md)
 
 **Due:** May 1, 2024
 
@@ -333,7 +333,7 @@ More information [here](project/prj-01.md)
 
 *Note:* You **do not** need to actually estimate anything.
 
-More information [here](project/prj-02.md).
+More information [here](project1/step2.md).
 
 **Due:** May 29, 2024
 
@@ -348,6 +348,8 @@ More information [here](project/prj-02.md).
 *Why?* In the course of the PhD, we want to teach you how to learn. We will not provide you with everything you need to know to be able to do research on any topic. But hopefully we provide you with a foundation and the ability to learn new things. Also: You need to learn how to communicate both in writing and in person. 
 
 **Due:** All material (including slides) is due June 2, 2024. Presentations will be during lab on June 7, 2024.
+
+[See here for more information and example topics.](project2)
 
 ## Practice problems
 
