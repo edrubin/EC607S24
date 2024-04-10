@@ -46,14 +46,14 @@ opts_chunk$set(
   fig.align = "center",
   fig.height = 7,
   fig.width = 10.5,
-  warning = F,
-  message = F
+  warning = FALSE,
+  message = FALSE
 )
 opts_chunk$set(dev = "svg")
 options(device = function(file, width, height) {
   svg(tempfile(), width = width, height = height)
 })
-options(crayon.enabled = F)
+options(crayon.enabled = FALSE)
 options(knitr.table.format = "html")
 # A blank theme for ggplot
 theme_empty <- theme_bw() + theme(
@@ -131,7 +131,7 @@ format_pvi <- function(pv) {
 }
 format_pv <- function(pvs) lapply(X = pvs, FUN = format_pvi) %>% unlist()
 # Tidy regression results table
-tidy_table <- function(x, terms, highlight_row = 1, highlight_color = "black", highlight_bold = T, digits = c(NA, 3, 3, 2, 5), title = NULL) {
+tidy_table <- function(x, terms, highlight_row = 1, highlight_color = "black", highlight_bold = TRUE, digits = c(NA, 3, 3, 2, 5), title = NULL) {
   x %>%
     tidy() %>%
     select(1:5) %>%
@@ -141,12 +141,12 @@ tidy_table <- function(x, terms, highlight_row = 1, highlight_color = "black", h
     ) %>%
     kable(
       col.names = reg_columns,
-      escape = F,
+      escape = FALSE,
       digits = digits,
       caption = title
     ) %>%
     kable_styling(font_size = 20) %>%
-    row_spec(1:nrow(tidy(x)), background = "white") %>%
+    row_spec(seq_len(nrow(tidy(x))), background = "white") %>%
     row_spec(highlight_row, bold = highlight_bold, color = highlight_color)
 }
 # A few extras
@@ -172,8 +172,10 @@ What's so great about linear regression and OLS?
 
 ### Upcoming
 
-.hi-slate[Assignment].sub[1] Custom OLS function fun.
-<br>.hi-slate[Assignment].sub[2] First step of project proposal.
+.hi-slate[Assignment].sub[1] First step of project proposal.
+<br>
+.hi-slate[Assignment].sub[2] Custom OLS function fun.
+
 
 ---
 layout: true
