@@ -47,7 +47,10 @@ Here are a few ideas for topics to get you started. You can certainly go beyond 
 | Interrupted time series | Dan Breeden |
 | Synthetic control methods | Jean Paul L. |
 | Shift-share IV | Josephine Kim |
-| Quantile reg. OR Wild cl. bootstrap | Havi K. |
-| 2 or 3 differences | Arvind Ch. |
+| Wild cl. bootstrap | Havi K. |
+| Double-difference estimator | Arvind Ch. |
 | Maximum likelihood | Nathan Bracken |
 | Dynamics and spillovers | Casey Cloutier |
+| LILM | D |
+| Split-sample IV or event studies | Gyanu Karki |
+| Fixed and random effects | Eugene Mensah |

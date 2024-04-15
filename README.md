@@ -100,16 +100,16 @@ The content of the lectures mainly follows *MHE* and [Michael Anderson](https://
 
  **Readings:** MHE chapter 3.1
 
-**[Lecture 04: Inference and Simulation](https://raw.githack.com/edrubin/EC607S23/master/notes-lecture/lec04/notes.html)**
+**[Lecture 04: Inference and Simulation](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec04/notes.html)**
 
 1. How do we move from populations to samples?
 2. What matters for drawing basic statistical inferences about the population?
 3. How can we learn about inference from simulation?
 4. How do we run (parallelized) simulations in R?
 
-**Note formats:** [.html](https://raw.githack.com/edrubin/EC607S23/master/notes-lecture/lec04/notes.html) |
-[.pdf](https://raw.githack.com/edrubin/EC607S23/master/notes-lecture/lec04/notes.pdf) |
-[.Rmd](https://raw.githack.com/edrubin/EC607S23/master/notes-lecture/lec04/notes.rmd)
+**Note formats:** [.html](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec04/notes.html) |
+[.pdf](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec04/notes.pdf) |
+[.Rmd](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec04/notes.rmd)
 
  **Readings:** MHE chapter 3
 
