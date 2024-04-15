@@ -295,6 +295,7 @@ Owen Jetton will walk you through R and applications of the course content. You 
 Problem sets combining econometric theory and R.
 
 [**Problem set 1**](problem-sets/001/)
+<br> Due Thursday, 18 April 2024
 
 ## Project
 

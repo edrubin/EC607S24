@@ -38,6 +38,7 @@ Here are a few ideas for topics to get you started. You can certainly go beyond 
 
 - Wild clustered bootstrap
 - Spatially clustered standard errors
+- Multiple-hypothesis testing
 
 ## Claimed topics
 
