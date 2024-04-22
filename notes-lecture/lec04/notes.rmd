@@ -867,6 +867,35 @@ ggplot(data = null_df, aes(x = p.value, fill = se_type)) +
 ```
 
 ---
+# Simulation
+## How did it go? (The sequel)
+
+For a 5% test 
+- the .b.orange[classical] SEs reject the .b.orange[true value (zero)] in `r null_df |> filter(se_type == 'classical') |> summarize(mean(p.value < 0.05)) |> as.numeric() |> scales::percent(accuracy = 0.01)` of samples;
+- the .b.purple[het.-robust] SEs reject the .b.purple[true value (zero)] in `r null_df |> filter(se_type == 'HC2') |> summarize(mean(p.value < 0.05)) |> as.numeric() |> scales::percent(accuracy = 0.01)` of samples.
+
+.note[In this setting,]
+- .b.slate[over-rejection] of the .b.slate[true null] is a bit worse with IID SE estimator;
+- .b.pink[false precision] is *much worse*.
+
+---
+# Summary
+## Wrapping up
+
+While research often ignores it,
+<br>.b.pink[inference is just as important as identification].
+
+Without understanding our .b.slate[uncertainty] and the .b.slate[population] onto which we draw inference, how can we learn anything from point estimates?
+
+--
+
+.note[(Enter simulation)]
+
+.b.purple[Simulation] is a fantastic tool for understanding estimators' behaviors.
+
+.note[Keep in mind:] Simulation results impose (more) assumptions.
+
+---
 layout: false
 # Table of contents
 
