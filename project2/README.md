@@ -55,3 +55,5 @@ Here are a few ideas for topics to get you started. You can certainly go beyond 
 | Split-sample IV or event studies | Gyanu Karki |
 | Fixed and random effects | Eugene Mensah |
 | Multiple-hypothesis testing | Dongli Hu |
+| Synthetic difference in differences | Nasim Yarishirmard |
+| Causal forests | Elaheh Alimohammad |
