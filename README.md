@@ -109,30 +109,30 @@ The content of the lectures mainly follows *MHE* and [Michael Anderson](https://
 
 **Note formats:** [.html](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec04/notes.html) |
 [.pdf](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec04/notes.pdf) |
-[.Rmd](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec04/notes.rmd)
+[.rmd](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec04/notes.rmd)
 
  **Readings:** MHE chapter 3
 
-**[Lecture 05: Regression Stuff](https://raw.githack.com/edrubin/EC607S23/master/notes-lecture/05-regression-stuff/05-regression-stuff.html)**
+**[Lecture 05: Regression Stuff](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec05/notes.html)**
 
 1. Saturated models
 1. When is regression causal?
 1. The conditional-independence assumption
 
-**Note formats:** [.html](https://raw.githack.com/edrubin/EC607S23/master/notes-lecture/05-regression-stuff/05-regression-stuff.html) |
-[.pdf](https://raw.githack.com/edrubin/EC607S23/master/notes-lecture/05-regression-stuff/05-regression-stuff.pdf) |
-[.Rmd](https://raw.githack.com/edrubin/EC607S23/master/notes-lecture/05-regression-stuff/05-regression-stuff.Rmd)
+**Note formats:** [.html](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec05/notes.html) |
+[.pdf](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec05/notes.pdf) |
+[.rmd](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec05/notes.rmd)
 
  **Readings:** Still MHE chapter 3
 
-**[Lecture 06: Controls](https://raw.githack.com/edrubin/EC607S23/master/notes-lecture/06-controls/06-controls.html)**
+**[Lecture 06: Controls](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec06/note.html)**
 
 1. Omitted-variable bias
 1. Good and bad controls
 
-**Note formats:** [.html](https://raw.githack.com/edrubin/EC607S23/master/notes-lecture/06-controls/06-controls.html) |
-[.pdf](https://raw.githack.com/edrubin/EC607S23/master/notes-lecture/06-controls/06-controls.pdf) |
-[.Rmd](https://raw.githack.com/edrubin/EC607S23/master/notes-lecture/06-controls/06-controls.Rmd)
+**Note formats:** [.html](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec06/notes.html) |
+[.pdf](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec06/notes.pdf) |
+[.rmd](https://raw.githack.com/edrubin/ec607s24/master/notes-lecture/lec06/notes.rmd)
 
  **Readings:** Still MHE chapter 3
 
