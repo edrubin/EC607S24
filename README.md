@@ -297,6 +297,9 @@ Problem sets combining econometric theory and R.
 [**Problem set 1**](problem-sets/001/)
 <br> Due Thursday, 18 April 2024
 
+[**Problem set 2**](problem-sets/002/)
+<br> Due Friday, 10 May 2024
+
 ## Project
 
 The course has two projects:
