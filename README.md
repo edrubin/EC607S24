@@ -321,7 +321,7 @@ Building a research project/proposal.
 
 More information [here](project1/step1.md)
 
-**Due:** May 1, 2024; submite [on Canvas](https://canvas.uoregon.edu/courses/239501/assignments/1655173)
+**Due:** May 1, 2024; submit [on Canvas](https://canvas.uoregon.edu/courses/239501/assignments/1655173)
 
 #### Step 2: Full project proposal
 

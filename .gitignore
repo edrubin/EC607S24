@@ -31,5 +31,6 @@ final/*
 # final/final-home/sim.R
 # final/final-home/key*
 # final/final-class*
-problem-sets/00[2-9]*
+problem-sets/00[3-9]*
+problem-sets/002/key*
 problem-sets/NOTES

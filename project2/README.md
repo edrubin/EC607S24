@@ -52,8 +52,9 @@ Here are a few ideas for topics to get you started. You can certainly go beyond 
 | Maximum likelihood | Nathan Bracken |
 | Dynamics and spillovers | Casey Cloutier |
 | LILM | D |
-| Split-sample IV or event studies | Gyanu Karki |
+| Event studies | Gyanu Karki |
 | Fixed and random effects | Eugene Mensah |
 | Multiple-hypothesis testing | Dongli Hu |
 | Synthetic difference in differences | Nasim Yarishirmard |
 | Causal forests | Elaheh Alimohammad |
+| TWFE and het. trt. effects | Abdul-Samed |
