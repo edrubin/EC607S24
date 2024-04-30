@@ -25,8 +25,8 @@ The data will come from **five** different DGPs (described in more detail below)
 For each of the DGPs, you will
 
 0. Describe and explain how OLS "should" perform based upon theory.
-1. Use OLS to estimate the effect of x on y (`β`).
-2. Use the "standard" IID-assuming standard error estimator (and the OLS estimates) to conduct a *t* test for `β = 4`. Record the *t* statistic and *p*-value.
+1. Use OLS to estimate the effect of `x` on `y` (i.e., `β`).
+2. Use the "standard" IID-assuming standard error estimator (and the OLS estimates) to conduct a *t* test for `β = 4`. Keep the *t* stat.
 3. Repeat the test but use the het.-robust standard error estimator.
 
 with **two** different sample sizes: 30 and 200. For each sample size, you should try to run 1,000 iterations (10,000 would be even better).
