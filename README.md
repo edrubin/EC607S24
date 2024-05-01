@@ -125,7 +125,7 @@ The content of the lectures mainly follows *MHE* and [Michael Anderson](https://
 
  **Readings:** Still MHE chapter 3
 
-**[Lecture 06: Controls](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec06/note.html)**
+**[Lecture 06: Controls](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec06/notes.html)**
 
 1. Omitted-variable bias
 1. Good and bad controls
