@@ -33,6 +33,7 @@ Here are a few ideas for topics to get you started. You can certainly go beyond 
   - Non-parametric
 - Dynamics and spillovers
 - ML-assisted heterogeneous effects
+- Decompositions (e.g., Kitagawa/Blinder-Oaxaca)
 
 **Inference**
 

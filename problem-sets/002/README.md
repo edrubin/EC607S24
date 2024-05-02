@@ -65,6 +65,8 @@ w = x + η
 y = 3 + 4 * x + Ɛ
 ```
 
+To be clear: `y` still depends upon `x` (the DGP of `y` is based upon `x`). However, you will regress `y` on `w`, since we're imagining that `x` is not actually observed.
+
 **2.4** (10 points) A slightly different version of classical measurement error: Now let the *measurement error* be heteroskedastic—specifiaclly larger variance in the "noise" for larger values of `x`. This DGP is basically **2.2** mixed with **2.3**:
 
 ```
