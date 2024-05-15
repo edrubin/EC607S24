@@ -136,29 +136,31 @@ The content of the lectures mainly follows *MHE* and [Michael Anderson](https://
 
  **Readings:** Still MHE chapter 3
 
-**[Lecture 07: DAGs](https://raw.githack.com/edrubin/EC607S23/master/notes-lecture/07-dags/07-dags.html)**
+**[Lecture 07: DAGs](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec07/notes.html)**
 
 1. Defining graphs 
 1. Underlying theory for DAGs
 1. Building blocks
 1. Examples
 
- **Note formats:** [.html](https://raw.githack.com/edrubin/EC607S23/master/notes-lecture/07-dags/07-dags.html) |
-[.pdf](https://raw.githack.com/edrubin/EC607S23/master/notes-lecture/07-dags/07-dags.pdf) |
- [.Rmd](https://raw.githack.com/edrubin/EC607S23/master/notes-lecture/07-dags/07-dags.Rmd)
+ **Note formats:** [.html](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec07/notes.html) |
+[.pdf](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/07-dags/07-dags.pdf) |
+ [.rmd](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/07-dags/07-dags.rmd)
 <br>**Readings:** Brady Neal's book, chapters 1–3 (especially 2–3)
 
 *Extras:* [dagitty](http://dagitty.net) and [ggdag](https://ggdag.malco.io/index.html)
 
-**[Lecture 08: Matching](https://raw.githack.com/edrubin/EC607S23/master/notes-lecture/08-matching/08-matching.html)**
+**[Lecture 08: Matching](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec08/notes.html)**
 
 1. Matching estimators: Nearest neighbor and kernel
 1. Propensity-score methods: Regression control, treatment-effect heterogeneity, blocking, weighting, *doubly robust*
 
- **Note formats:** [.html](https://raw.githack.com/edrubin/EC607S23/master/notes-lecture/08-matching/08-matching.html) |
-[.pdf](https://raw.githack.com/edrubin/EC607S23/master/notes-lecture/08-matching/08-matching.pdf) |
- [.Rmd](https://raw.githack.com/edrubin/EC607S23/master/notes-lecture/08-matching/08-matching.Rmd)
+ **Note formats:** [.html](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec08/notes.html) |
+[.pdf](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec08/notes.pdf) |
+ [.rmd](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec08/notes.rmd)
 <br>**Readings:** MHE chapter 3 + C&T section 25.4
+
+*Bonus:* [Slides outlining logistic regression](https://raw.githack.com/edrubin/EC524S24/master/lecture/006/slides.html#31).
 
 **[Lecture 09: Instrumental Variables](https://raw.githack.com/edrubin/EC607S23/master/notes-lecture/09-iv/09-iv.html)**
 
@@ -300,6 +302,9 @@ Problem sets combining econometric theory and R.
 [**Problem set 2**](problem-sets/002/)
 <br> Due Sunday, 12 May 2024
 
+[**Problem set 3**](problem-sets/003/)
+<br> Due Sunday, 19 May 2024
+
 ## Project
 
 The course has two projects:
@@ -359,7 +364,7 @@ More information [here](project1/step2.md).
 
 1. Inference and simulation
 1. Matching
-1. [Instrumental variables](https://raw.githack.com/edrubin/EC607S21/master/notes-lecture/09-iv/09-iv-practice.pdf)
+1. [Instrumental variables](https://raw.githack.com/edrubin/EC607S24/master/notes-lecture/lec09/iv-practice.pdf)
 1. Regression discontinuity
 1. Inference: Clustering and resampling
 

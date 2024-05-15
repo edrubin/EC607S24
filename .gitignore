@@ -15,9 +15,9 @@
 # notes-lecture/lec04*
 # notes-lecture/lec05*
 # notes-lecture/lec06*
-notes-lecture/lec07*
-notes-lecture/lec08*
-notes-lecture/lec09*
+# notes-lecture/lec07*
+# notes-lecture/lec08*
+# notes-lecture/lec09*
 notes-lecture/lec10*
 notes-lecture/lec11*
 notes-lecture/lec12*
@@ -31,6 +31,7 @@ final/*
 # final/final-home/sim.R
 # final/final-home/key*
 # final/final-class*
-problem-sets/00[3-9]*
+problem-sets/00[4-9]*
 problem-sets/002/key*
+problem-sets/003/key*
 problem-sets/NOTES
