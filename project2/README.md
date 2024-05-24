@@ -6,7 +6,7 @@
 - Write a summary/tutorial (think: wiki or blog) of the topic that includes (a) the math behind the approach and (b) an empirical example.
 - Present a five-minute summary of the topics to your classmates.
 
-**Due:** All material (including slides) is due June 2, 2024. Presentations will be during lab on June 7, 2024.
+**Due:** All material (including slides) is due June 2, 2024. Presentations will be during class on June 5, 2024.
 
 ## Why?
 
