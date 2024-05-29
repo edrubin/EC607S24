@@ -24,13 +24,8 @@ notes-lecture/lec12*
 notes-lecture/lec13*
 
 # Temporary holds
-# project*
-final/*
-# final/final-class*
-# final/final-home/setup.R
-# final/final-home/sim.R
-# final/final-home/key*
-# final/final-class*
+final/final-class*
+final/final-home*
 problem-sets/00[4-9]*
 problem-sets/002/key*
 problem-sets/003/key*

@@ -377,6 +377,13 @@ The final exam has two parts:
 
 We do not have a midterm exam.
 
+**Examples of past exams:**
+
+- [2023 in-class exam](final/exam-inclass-2023.pdf)
+- [2023 take-home exam](https://raw.githack.com/edrubin/EC607S23/master/final/final-home/final-home.html)
+- [2022 take-home exam](https://raw.githack.com/edrubin/EC607S22/master/final/exam/exam.html)
+- [2020 exam](https://raw.githack.com/edrubin/EC607S20/master/final/final.pdf)
+
 ## Grades
 
 As you've hopefully figured out by now, our PhD program is not "about grades." This class is critical to building the intuition and skills that you will rely upon in your own empirical work and in communicating with others about their empirical work. Commit to (and focus on) learning the material—the theory, the intuition, and the programming. 
