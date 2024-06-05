@@ -373,7 +373,7 @@ More information [here](project1/step2.md).
 The final exam has two parts:
 
 - In class: 10:15am–12:15pm on Tuesday, June 11th (2024).
-- Take-home: Responses due by 11:59pm Pacific on Thursday, June 13th, 2023.
+- [Take-home exam](https://raw.githack.com/edrubin/EC607S24/master/final/final-home/final-home.html): Responses due by 11:59pm Pacific on Thursday, June 13th, 2023.
 
 We do not have a midterm exam.
 
